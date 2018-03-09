@@ -5,7 +5,7 @@
     "foodMass": 1,
     "fireFood": 20,
     "limitSplit": 16,
-    "defaultPlayerMass": 10,
+    "defaultPlayerMass": 20,
 	"virus": {
     "fill": "#33ff33",
   	"stroke": "#19D119",
@@ -18,7 +18,7 @@
 	},
     "gameWidth": 5000,
     "gameHeight": 5000,
-    "adminPass": "DEFAULT",
+    "adminPass": "PSEEDY",
     "gameMass": 20000,
     "maxFood": 1000,
     "maxVirus": 50,
