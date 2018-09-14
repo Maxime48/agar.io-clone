@@ -20,7 +20,7 @@
     "gameHeight": 5000,
     "adminPass": "PSEEDY0820",
     "gameMass": 20000,
-    "maxFood": 50000,
+    "maxFood": 9000,
     "maxVirus": 50,
     "slowBase": 4.5,
     "logChat": 1,
