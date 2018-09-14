@@ -19,7 +19,7 @@
     "gameWidth": 5000,
     "gameHeight": 5000,
     "adminPass": "PSEEDY0820",
-    "gameMass": 20000,
+    "gameMass": 500000,
     "maxFood": 1500,
     "maxVirus": 50,
     "slowBase": 4.5,
